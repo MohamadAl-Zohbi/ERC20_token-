@@ -1,4 +1,3 @@
-``` solidity
 pragma solidity ^0.8.0;
 
 contract MyToken {
@@ -46,4 +45,3 @@ contract MyToken {
         return allowed[tokenOwner][spender];
     }
 }
-```
